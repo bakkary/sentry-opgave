@@ -1,4 +1,4 @@
-foo()
+// foo()
 
 const keepo = document.querySelector("kappa")
 
